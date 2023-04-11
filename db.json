@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,45 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Nubia",
+      "dogBreed": "German Shepper",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "",
+      "dogBreed": "",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "",
+      "dogBreed": "",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +58,68 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 1
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 6
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 7
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 8
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 9
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 10
+    },
+    {
+      "name": "ivan",
+      "email": "arias.ivan@hotmail.com",
+      "id": 11
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
